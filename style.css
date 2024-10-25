@@ -1,0 +1,9 @@
+.hero {
+    background-image: url('dishub-photo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    background-color: #333;
+}
